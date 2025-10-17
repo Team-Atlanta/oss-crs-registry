@@ -1,4 +1,4 @@
-atlantis-c-libafl:
+atlantis-c-deepgen:
   models:
     - gpt5
     - gpt5-mini
