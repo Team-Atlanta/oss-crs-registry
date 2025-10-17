@@ -1,3 +1,3 @@
 source:
-  url: https://github.com/Team-Atlanta/atlantis-c-libafl
+  url: git@github.com:Team-Atlanta/atlantis-c-libafl.git
   ref: port-deepgen
